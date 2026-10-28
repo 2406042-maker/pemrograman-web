@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color: linen;
+    margin: 40px;
+    color: #333333;
+}
+
+#review-form {
+    width: 520px;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 6px;
+    margin: 0 auto;
+}
+
+fieldset {
+    border: 2px solid maroon;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+legend {
+    font-weight: bold;
+    color: maroon;
+}
